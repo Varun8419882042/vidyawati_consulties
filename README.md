@@ -1,1 +1,0 @@
-# vidyawati_consulties
