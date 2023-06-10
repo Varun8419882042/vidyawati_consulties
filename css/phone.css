@@ -1,0 +1,29 @@
+body{
+    background-color: red;
+}
+#navbar ul li{
+    font-size:1.0rem;
+}
+#home{
+    padding:0px 0px;
+}
+#home p{
+    font-size:0.9rem;
+}
+#home::before{
+    height:120%;
+}
+#h-primary{
+padding:0px;
+}
+#services .box h1{
+    font-size:1.9rem;
+    height:55px;
+    margin:3px;
+    padding:0px;
+}
+#navbar{
+    flex-direction:column;
+}
+
+/*<link rel="stylesheet" media="screen and (max-width:507px)"href="css/phone.css">*/
